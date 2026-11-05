@@ -1,0 +1,5 @@
+Magnitud,Estimacion_Mediana,IC_95%_Central,Desv_Estandar_MC,Unidad,Metodo_Interpretacion
+C del capacitor de 330 uF (con 3 resistencias),370.72,"[354.28, 388.58]",8.74,uF,"Pendiente m de tau(R); corr(C, Rs) = -0.924"
+R_s efectiva (con 3 resistencias),-0.92,"[-3.88, 2.10]",1.54,Ohm,Cociente b/m; 72.3% de realizaciones dan R_s < 0 (no físico)
+[Comparación Preg. 9] C usando solo 33 y 100 Ohm,372.33,"[357.49, 387.89]",7.68,uF,Ajuste con solo 2 puntos (0 grados de libertad)
+[Comparación Preg. 9] R_s usando solo 33 y 100 Ohm,-1.17,"[-3.30, 0.99]",1.09,Ohm,Extrapolación a R=0 sin el brazo de palanca de 215 Ohm

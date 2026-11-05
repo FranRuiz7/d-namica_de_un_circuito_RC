@@ -1,0 +1,4 @@
+Config,R_medida_ohm,med_tau_c_ms,med_tau_d_ms,tau_hat_k_ms,IC_95%_bootstrap_ms,u_boot_std_ms,N_ciclos,Diagnostico_residuos
+R_33,33.1 ± 0.6,11.928,11.921,11.918,"[11.773, 11.945]",0.0432,5,Residuo estructurado en S (absorción dieléctrica + ESR); RMSE ~ 18-24 mV
+R_100,99.5 ± 1.2,36.611,36.623,36.617,"[36.591, 36.644]",0.013,5,Residuo estructurado en S (absorción dieléctrica + ESR); RMSE ~ 18-24 mV
+R_220,215.0 ± 4.0,79.33,79.33,79.325,"[79.192, 79.358]",0.0398,5,Residuo estructurado en S (absorción dieléctrica + ESR); RMSE ~ 18-24 mV
